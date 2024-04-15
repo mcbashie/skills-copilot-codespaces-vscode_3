@@ -1,3 +1,3 @@
 function skillsMember() {
-    return 'Skills of Member';
+    return 'I am a member of the team';
 }
